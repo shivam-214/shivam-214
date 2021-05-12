@@ -1,5 +1,5 @@
 <div> 
-<h1 align="center">Hi There👋h</h1>
+<h1 align="center">Hi There👋</h1>
 <ul> 
   <li>🔥 I'm a Curious MERN stack Developer</li>
   <li>🌱 I’m currently persuing Software Engineering from Delhi Technological University</li>
