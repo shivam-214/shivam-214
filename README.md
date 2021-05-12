@@ -1,10 +1,10 @@
 <div> 
 <h1 align="center">Hi There👋h</h1>
 <ul> 
-  <li>🔥 I'm a Curious MERN stack Developer<li>
+  <li>🔥 I'm a Curious MERN stack Developer</li>
   <li>🌱 I’m currently persuing Software Engineering from Delhi Technological University</li>
-  <li>👀 I’m interested in Web Development Projects <li>
-  <li>🌟Willing to do a lot Open source Contributions<li>
+  <li>👀 I’m interested in Web Development Projects</li>
+  <li>🌟Willing to do a lot Open source Contributions</li>
 </ul>
 </div>
 
