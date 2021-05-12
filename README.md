@@ -1,4 +1,4 @@
-<div align="center"> 
+<div> 
 <h1 align="center">Hi There👋h</h1>
 <ul> 
   <li>🔥 I'm a Curious MERN stack Developer<li>
