@@ -1,6 +1,6 @@
 - 👋 Hi There
-- Curious MERN stack Developer🔥
+- 🔥 I'm a Curious MERN stack Developer
 - 🌱 I’m currently persuing Software Engineering from Delhi Technological University
 - 👀 I’m interested in Web Development Porjects 
-- 📫 How to reach me:  or Mail Me
+- 📫 How to reach me: shivam.bharti99gmail.com
 -  Willing to do a lot Open source Contributions🌟
