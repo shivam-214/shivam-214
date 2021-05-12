@@ -1,11 +1,6 @@
-- 👋 Hi, I’m Shivam Bharti 
+- 👋 Hi There
 - Curious MERN stack Developer🔥
+- 🌱 I’m currently persuing Software Engineering from Delhi Technological University
 - 👀 I’m interested in Web Development Porjects 
-- 🌱 I’m currently persuing Software Engineering from Delhi Technological University 
+- 📫 How to reach me:  or Mail Me
 -  Willing to do a lot Open source Contributions🌟
-
-
-<!---
-shivam-214/shivam-214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
