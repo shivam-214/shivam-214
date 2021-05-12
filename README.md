@@ -1,4 +1,4 @@
-- 👋 Hi There
+### 👋 Hi There
 - 🔥 I'm a Curious MERN stack Developer
 - 🌱 I’m currently persuing Software Engineering from Delhi Technological University
 - 👀 I’m interested in Web Development Projects 
