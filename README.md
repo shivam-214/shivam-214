@@ -1,8 +1,8 @@
 <div> 
 <h1 align="center">Hi There👋</h1>
 <ul> 
-  <li>🔥 I'm a Curious MERN stack Developer</li>
-  <li>🌱 Currently persuing Software Engineering from Delhi Technological University</li>
+  <li>🔥 I'm a Curious MERN stack and Dotnet Developer</li>
+  <li>🌱 Done my bachelor's degree in Software Engineering from Delhi Technological University</li>
   <li>👀 Interested in Web Development Projects</li>
   <li>🌟 Willing to do a lot Open source Contributions</li>
 </ul>
