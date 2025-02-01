@@ -11,7 +11,6 @@
 <p>📌How to reach me: <p>
   
  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-bharti-054a8b1a0/)
-<img src="https://img.shields.io/github/followers/KaranSingh1301?label=follow&style=social" height="22" title="Follow me" href="https://github.com/shivam-214"/>
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bhartishivam214@gmail.com)
 
 
