@@ -35,8 +35,6 @@
           <td><a href="#"><img alt="React" title="React" height="28px"
                         src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" /></a>
             </td>
-          <td><a href="#"><img alt="jQuery" title="jQuery" height="28px"
-                        src="https://creativo-websolutions.com/my_files/2020/04/iconfinder_jquery_3069646.png" /></a></td>
       </tr>
         <tr>
             <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
